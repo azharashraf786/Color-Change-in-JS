@@ -1,0 +1,14 @@
+.container{
+  /* background-color: aqua; */
+  text-align: center;
+  justify-content: center;
+  margin-top: 50vh;
+}
+
+.clickme {
+  color: azure;
+  background-color: blue;
+  border: none;
+  padding: 7px;
+  border-radius: 5px;
+}
